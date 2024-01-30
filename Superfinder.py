@@ -2,7 +2,7 @@ import requests as re1
 import os
 import threading
 from colorama import Fore,Back
-#os.system("clear")
+os.system("clear")
 print(Fore.YELLOW+'''
       
       
